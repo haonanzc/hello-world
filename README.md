@@ -1,2 +1,4 @@
 # hello-world
-my 1st experience in github
+
+我只是想用github写博客，因为我有一个很好的小说想法，但又不想让很多人看到。
+对了，我打字很慢。
